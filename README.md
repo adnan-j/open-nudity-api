@@ -1,3 +1,13 @@
+<p align="center">
+  <a href="https://cloudants.io" target="_blank">
+    <img src="https://cloudants.io/images/logo-2.png" alt="CloudAnts" height="60"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://claude.ai/code" target="_blank">
+    <img src="https://img.shields.io/badge/Built%20with-Claude%20Code-6B4FBB?style=flat&logo=anthropic&logoColor=white" alt="Built with Claude Code" height="28"/>
+  </a>
+</p>
+
 # Cloudants Vision API
 
 Open-source image analysis API built on [NudeNet](https://github.com/notAI-tech/NudeNet). Self-host it in under 5 minutes with Docker.
@@ -193,6 +203,31 @@ The underlying NudeNet model can return any of these in `/v1/detections`:
 pip install pytest httpx
 pytest tests/ -v
 ```
+
+---
+
+## Credits
+
+<table>
+  <tr>
+    <td align="center" width="200">
+      <a href="https://cloudants.io" target="_blank">
+        <img src="https://cloudants.io/images/logo-2.png" alt="CloudAnts" width="140"/><br/>
+        <b>CloudAnts</b>
+      </a>
+      <br/>
+      Originally designed, built, and battle-tested in production by the <a href="https://cloudants.io">CloudAnts</a> team as part of their commercial image moderation platform.
+    </td>
+    <td align="center" width="200">
+      <a href="https://claude.ai/code" target="_blank">
+        <img src="https://img.shields.io/badge/Claude%20Code-Anthropic-6B4FBB?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code"/><br/>
+        <b>Claude Code</b>
+      </a>
+      <br/>
+      Open-source version architected and built with <a href="https://claude.ai/code">Claude Code</a> by Anthropic — modernising the stack, fixing thresholds against real images, and making it community-ready.
+    </td>
+  </tr>
+</table>
 
 ---
 
