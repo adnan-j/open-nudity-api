@@ -1,0 +1,7 @@
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+nudenet>=3.4.2
+aiohttp>=3.10.0
+pillow>=10.4.0
+python-multipart>=0.0.9
+pydantic-settings>=2.0.0
