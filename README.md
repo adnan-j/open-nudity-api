@@ -1,10 +1,9 @@
 <p align="center">
   <a href="https://cloudants.io" target="_blank">
-    <img src="assets/cloudants-logo.png" alt="CloudAnts" height="60"/>
+    <img src="assets/cloudants-logo.png" alt="CloudAnts" height="60"/><br/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://claude.ai/code" target="_blank">
-    <img src="https://img.shields.io/badge/Built%20with-Claude%20Code-6B4FBB?style=flat&logo=anthropic&logoColor=white" alt="Built with Claude Code" height="28"/>
+    <img src="https://img.shields.io/badge/Built%20with-Claude%20Code-6B4FBB?style=flat&logo=anthropic&logoColor=white" alt="Built with Claude Code" height="22"/>
   </a>
 </p>
 
