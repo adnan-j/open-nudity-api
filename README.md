@@ -22,8 +22,8 @@ Interactive API docs auto-generated at **`http://localhost:8000/docs`** when run
 ## Quickstart — Docker (recommended)
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO
-cd YOUR_REPO
+git clone https://github.com/adnan-j/open-nudity-api
+cd open-nudity-api
 
 cp .env.example .env   # edit if needed
 
@@ -39,8 +39,8 @@ API is live at `http://localhost:8000`. The NudeNet model weights (~95MB) are ba
 **Requires Python 3.9+**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO
-cd YOUR_REPO
+git clone https://github.com/adnan-j/open-nudity-api
+cd open-nudity-api
 
 python -m venv .venv
 source .venv/bin/activate      # Windows: .venv\Scripts\activate
