@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://cloudants.io" target="_blank">
-    <img src="https://cloudants.io/images/logo-2.png" alt="CloudAnts" height="60"/>
+    <img src="https://cloudants.io/images/logo.png" alt="CloudAnts" height="60"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://claude.ai/code" target="_blank">
@@ -212,7 +212,7 @@ pytest tests/ -v
   <tr>
     <td align="center" width="200">
       <a href="https://cloudants.io" target="_blank">
-        <img src="https://cloudants.io/images/logo-2.png" alt="CloudAnts" width="140"/><br/>
+        <img src="https://cloudants.io/images/logo.png" alt="CloudAnts" width="140"/><br/>
         <b>CloudAnts</b>
       </a>
       <br/>
